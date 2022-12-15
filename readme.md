@@ -1,5 +1,11 @@
 # TBK Mini
 
+---
+
+modded version to not require screws, see the STL files
+
+---
+
 A Dactyl Manuform Mini. Silent and compact, with per-key RGB.
 
 ![](pics/4.png)
