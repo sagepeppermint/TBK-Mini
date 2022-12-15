@@ -2,7 +2,10 @@
 
 ---
 
-modded version to not require screws and modified the pro micro holder to be compatible with the KB2040, see the STL files
+modded version 
+- does not require screws. I used superglue instead. The screws and inserts are difficult to source without resorting to overseas online shopping with lengthy shipping times. 
+- modified the pro micro holder to be compatible with the KB2040 (Adafruit)
+- see the STL files
 
 ---
 
