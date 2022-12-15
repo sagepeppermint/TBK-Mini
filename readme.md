@@ -2,7 +2,7 @@
 
 ---
 
-modded version to not require screws, see the STL files
+modded version to not require screws and modified the pro micro holder to be compatible with the KB2040, see the STL files
 
 ---
 
