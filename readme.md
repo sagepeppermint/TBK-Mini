@@ -4,7 +4,8 @@
 
 modded version 
 - does not require screws. I used superglue instead. The screws and inserts are difficult to source without resorting to overseas online shopping with lengthy shipping times. 
-- modified the pro micro holder to be compatible with the KB2040 (Adafruit)
+- you will still require the bottom plate, as the flattened regions of the prior screw mounts are not structurally stable (even with bumpons) when pressing the medial top row buttons.
+- modified the pro micro holder to be compatible with the KB2040 (Adafruit).
 - see the STL files
 
 ---
